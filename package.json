@@ -1,0 +1,15 @@
+{
+  "name": "View-Status",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Encryhar",
+  "license": "ISC",
+  "description": "View-Status adalah bot WhatsApp sederhana yang otomatis melihat status atau cerita teman Anda, memastikan Anda selalu jadi yang pertama melihat update terbaru.",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
