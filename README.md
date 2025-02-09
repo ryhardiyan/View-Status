@@ -2,14 +2,14 @@
 View-Status WhatsApp adalah bot sederhana yang otomatis melihat, menyukai, dan mendownload status/story teman-teman WhatsAppmu, membuatmu selalu jadi yang pertama.
 
 <div align="center">
-  <img src="img/" alt="testing" width="500">
+  <img src="img/testing.jpg"alt="testing" width="500">
   <div>Melihat dan menyukai story secara otomatis.</div>
   <br>
-  <img src="img/" alt="testing" width="500">
+  <img src="img/testing2.jpg" alt="testing" width="500">
   <div>Mendownload media (foto, video, dan audio) dari story secara otomatis jika fitur downloadMediaStatus diaktifkan.</div>
   <br>
-  <img src="img/" alt="testing" width="500">
-  <div>Terdapat beberapa perintah (command) untuk mengaktifkan atau menonaktifkan fitur yang tersedia dengan mengetik #menu.</div>
+  <img src="img/testing3.jpg" alt="testing" width="500">
+  <div>Terdapat beberapa perintah (command) untuk mengaktifkan atau menonaktifkan fitur yang tersedia dengan mengetik /menu.</div>
 </div>
 
 ## Installasi:
